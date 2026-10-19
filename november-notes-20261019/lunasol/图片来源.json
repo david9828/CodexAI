@@ -1,0 +1,30 @@
+[
+  {
+    "file": "01.jpg",
+    "url": "https://static.id-digital.jp/image/0b/0b08/0b085214cba7f363bfa098e3f37d90e06ef58d0d_resize1440.jpg",
+    "caption": "画像のaltを設定してください",
+    "source": "https://www.lunasol-official.com/lp/contents/event2610",
+    "width": 1440
+  },
+  {
+    "file": "02.jpg",
+    "url": "https://static.id-digital.jp/resized/12/1248/1248f7715d4a185012187e0578570965e04b7c59.png",
+    "caption": "",
+    "source": "https://www.lunasol-official.com/lp/contents/event2610",
+    "width": 800
+  },
+  {
+    "file": "03.jpg",
+    "url": "https://static.id-digital.jp/image/31/317a/317a6f04c4f064437c642723f5f9a8ea0258d7a5_resize800.jpg",
+    "caption": "",
+    "source": "https://www.lunasol-official.com/lp/contents/event2610",
+    "width": 800
+  },
+  {
+    "file": "04.jpg",
+    "url": "https://static.id-digital.jp/image/5b/5b9f/5b9f7012ae8206af70e77adc909d1bd762dea80b_resize800.jpg",
+    "caption": "",
+    "source": "https://www.lunasol-official.com/lp/contents/event2610",
+    "width": 800
+  }
+]

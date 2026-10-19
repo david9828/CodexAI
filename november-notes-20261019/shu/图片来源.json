@@ -1,0 +1,30 @@
+[
+  {
+    "file": "01.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/32312/189/32312-189-c3dcc4308d9265c49c63cd5f7cf31139-3900x2600.jpg",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000189.000032312.html",
+    "width": 3900
+  },
+  {
+    "file": "02.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/32312/189/32312-189-503405fa401487acccdf6e784f6065c0-2149x2700.jpg",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000189.000032312.html",
+    "width": 2149
+  },
+  {
+    "file": "03.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/32312/189/32312-189-14fb66dbe83fac6f0e808c4f639febb7-986x657.png",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000189.000032312.html",
+    "width": 986
+  },
+  {
+    "file": "04.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/32312/189/32312-189-f5ec355656b7fd4efccb35e887e8f4dd-3000x2000.png",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000189.000032312.html",
+    "width": 3000
+  }
+]

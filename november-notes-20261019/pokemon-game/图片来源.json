@@ -1,0 +1,30 @@
+[
+  {
+    "file": "01.jpg",
+    "url": "https://www.pokemon.co.jp/ex/omaroke/assets/img/visual.webp",
+    "caption": "",
+    "source": "https://www.pokemon.co.jp/ex/omaroke/",
+    "width": 695
+  },
+  {
+    "file": "02.jpg",
+    "url": "https://www.pokemon.co.jp/ex/omaroke/assets/img/package.webp",
+    "caption": "",
+    "source": "https://www.pokemon.co.jp/ex/omaroke/",
+    "width": 334
+  },
+  {
+    "file": "03.jpg",
+    "url": "https://www.pokemon.co.jp/ex/omaroke/assets/img/about_img1.webp",
+    "caption": "",
+    "source": "https://www.pokemon.co.jp/ex/omaroke/",
+    "width": 960
+  },
+  {
+    "file": "04.jpg",
+    "url": "https://www.pokemon.co.jp/ex/omaroke/assets/img/about_img2.webp",
+    "caption": "",
+    "source": "https://www.pokemon.co.jp/ex/omaroke/",
+    "width": 960
+  }
+]

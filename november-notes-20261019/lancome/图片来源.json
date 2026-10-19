@@ -1,0 +1,16 @@
+[
+  {
+    "file": "01.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/12459/336/12459-336-d1609f995cf2ad87b1e9d415798599de-2000x1125.jpg",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000336.000012459.html",
+    "width": 2000
+  },
+  {
+    "file": "02.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/12459/336/12459-336-8b220d5b26fcde297a137aa70df217be-3900x2194.png",
+    "caption": "",
+    "source": "https://prtimes.jp/main/html/rd/p/000000336.000012459.html",
+    "width": 3900
+  }
+]

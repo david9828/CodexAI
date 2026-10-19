@@ -1,0 +1,16 @@
+[
+  {
+    "file": "01.jpg",
+    "url": "https://www.takashimaya.co.jp/sto/image/product/product_image_main/5032/0002525032-001f.jpg",
+    "caption": "",
+    "source": "https://www.takashimaya.co.jp/beauty/product.html?p_cd=0002525032&sub_cd=001",
+    "width": 200
+  },
+  {
+    "file": "02.jpg",
+    "url": "https://www.takashimaya.co.jp/sto/image/product/product_image_sub/5032/0002525032_1f.jpg",
+    "caption": "",
+    "source": "https://www.takashimaya.co.jp/beauty/product.html?p_cd=0002525032&sub_cd=001",
+    "width": 200
+  }
+]
