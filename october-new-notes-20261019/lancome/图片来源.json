@@ -1,0 +1,20 @@
+[
+  {
+    "path": "assets/01.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/12459/335/12459-335-bbae9446a627c45b22c343b7c6c195bd-3900x2194.jpg",
+    "alt": "兰蔻官方发布图片",
+    "source": "https://prtimes.jp/main/html/rd/p/000000335.000012459.html"
+  },
+  {
+    "path": "assets/02.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/12459/335/12459-335-d39c85d35eb7a689d77845979631df3f-1920x1080.jpg",
+    "alt": "兰蔻官方发布图片",
+    "source": "https://prtimes.jp/main/html/rd/p/000000335.000012459.html"
+  },
+  {
+    "path": "assets/03.jpg",
+    "url": "https://prcdn.freetls.fastly.net/release_image/12459/335/12459-335-aec6509cf409cb7e9a6011f88d2f82fa-2000x2000.png",
+    "alt": "兰蔻官方发布图片",
+    "source": "https://prtimes.jp/main/html/rd/p/000000335.000012459.html"
+  }
+]
