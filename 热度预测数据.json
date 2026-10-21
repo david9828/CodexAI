@@ -20,6 +20,29 @@
   "normalization": "同口径候选样本内按百分位归一至0–100；须保留样本量、来源、抓取时间和原值。未收齐样本前不归一、不出分。",
   "market": [
     {
+      "brand": "SK-II",
+      "month": "2026-10",
+      "focus": "75mL与230mL两款圣诞套装",
+      "observation": "用户反馈：国民药妆曾有排队购买；分店、观察日期、人数及购买SKU待确认。",
+      "fact": "用户价签显示10/20限定发售。日常采购：国民药妆、伊藤洋华堂专柜；新品预约：大丸／近铁专柜。折扣和预约额度均需逐店核实。",
+      "source": "SKII-holiday-20261021/图文预览.html",
+      "note": "SKII-holiday-20261021/图文预览.html",
+      "image": "",
+      "metrics": {
+        "xhs_attention": null,
+        "xhs_intent": null,
+        "jp_demand": null,
+        "momentum": null,
+        "timing": null
+      },
+      "result": {
+        "score": null,
+        "coverage": 0,
+        "status": "数据不足，不排名"
+      },
+      "priority": "优先补采（用户观察）"
+    },
+    {
       "brand": "CHANEL 香奈儿",
       "month": "2026-10",
       "focus": "10月圣诞彩妆系列",
