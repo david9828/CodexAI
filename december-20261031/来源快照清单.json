@@ -1,0 +1,54 @@
+[
+  {
+    "key": "pj",
+    "url": "https://www.paul-joe-beaute.com/blogs/info/202612new-product",
+    "final_url": "https://www.paul-joe-beaute.com/blogs/info/202612new-product",
+    "checked": "2026-10-31",
+    "sha256": "ac934aacaf1a1c3a76528ec53cc457a7175503af2510d7e44fc4aad04ab2c6aa",
+    "snapshot": "evidence/pj.html",
+    "status": "原始HTML已保存"
+  },
+  {
+    "key": "decorte",
+    "url": "https://www.decorte.com/site/s/holiday_2026.aspx",
+    "final_url": "https://www.decorte.com/site/s/holiday_2026.aspx",
+    "checked": "2026-10-31",
+    "sha256": "72eb1e8f614ac2a980d598c8f0fa92478223403ca1d67c7355ee6586fc173488",
+    "snapshot": "evidence/decorte.html",
+    "status": "原始HTML已保存"
+  },
+  {
+    "key": "pola",
+    "url": "https://www.pola.co.jp/ec/campaign/winter-collection-2026-02.aspx",
+    "final_url": "https://www.pola.co.jp/ec/campaign/winter-collection-2026-02.aspx",
+    "checked": "2026-10-31",
+    "sha256": "fa8acb6dab30409e9d280de69c3d261f6caf388034a805cece0e6ee3988ee811",
+    "snapshot": "evidence/pola.html",
+    "status": "原始HTML已保存"
+  },
+  {
+    "key": "sk2",
+    "url": "https://www.sk-ii.jp/our-products/all",
+    "final_url": "https://www.sk-ii.jp/our-products/all",
+    "checked": "2026-10-31",
+    "sha256": "8a97cf6581ad710f7c6218271ca05da58ecb2d643331e3383196638c4243b2d6",
+    "snapshot": "evidence/sk2.html",
+    "status": "原始HTML已保存"
+  },
+  {
+    "key": "dior",
+    "url": "https://www.dior.com/ja_jp/beauty/gift-sets/dlp-all-giftsets.html",
+    "checked": "2026-10-31",
+    "status": "快照获取失败；网页工具已读取原页",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "chanel",
+    "url": "https://www.chanel.com/jp/makeup/",
+    "final_url": "https://www.chanel.com/jp/makeup/",
+    "checked": "2026-10-31",
+    "sha256": "72573a5b4aa2ac9a53f88e61086e3cafd82fb15a196a2c865ec07903994f9f60",
+    "snapshot": "evidence/chanel.html",
+    "status": "原始HTML已保存"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "executed": "2026-10-31",
+  "command": "/opt/homebrew/Caskroom/miniconda/base/bin/python3 tests/test_december.py",
+  "tests": 6,
+  "failures": 0,
+  "scope": [
+    "月份与首次发售隔离",
+    "62项唯一编号及11月38项回归",
+    "POLA起价与PJ预约语义",
+    "一手来源域及快照SHA256",
+    "首页与12月页面链接",
+    "标题长度与用户验证未通过状态"
+  ],
+  "user_validation": "未执行，待实际代购试用；技术通过不代表内容效果已验证"
+}
