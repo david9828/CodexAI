@@ -1,0 +1,42 @@
+[
+  {
+    "file": "assets/kitty.jpg",
+    "url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y576324_b.jpg",
+    "sha256": "aae3f1724983c9ddf5fd465cc5d7af92aec55341b6f16fec73f5bd18902a156d"
+  },
+  {
+    "file": "assets/cinnamoroll.jpg",
+    "url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y576331_b.jpg",
+    "sha256": "91a58895c3820b5ee19676b1aee79ce202f14d8ad58909bfe37728b591d00294"
+  },
+  {
+    "file": "assets/mymelody.jpg",
+    "url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y576348_b.jpg",
+    "sha256": "3623daa9bf115e7e5b1becde494fbf2be20479af721f097a1a3bf7506acf08ab"
+  },
+  {
+    "file": "assets/kur.jpg",
+    "url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y576355_b.jpg",
+    "sha256": "8f2a5e75703156d98d1022872c32ce97c938fc328398d4b23f958771f84b08d6"
+  },
+  {
+    "file": "assets/kuromi.jpg",
+    "url": "https://www.taito.co.jp/Content/images/zone/prize/480439610.jpg",
+    "sha256": "a13ebd0630705619cd1a9dcce58ff3cb28ed5ab87c8c86d8018d5c7e9db11795"
+  },
+  {
+    "file": "assets/melody.jpg",
+    "url": "https://www.taito.co.jp/Content/images/zone/prize/480439710.jpg",
+    "sha256": "77e501da9ca9b7cb1fe7276fc9b4b01ef105f4bec0b216cf072ec9f556cddfa8"
+  },
+  {
+    "file": "assets/bandai-1.jpg",
+    "url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256423_1.jpg",
+    "sha256": "e1ad86992d538332c290a26a9568335f0089e8e98b05f5aee45b6cf119c3b172"
+  },
+  {
+    "file": "assets/bandai-2.jpg",
+    "url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000256423_2.jpg",
+    "sha256": "64ebfb6a04236568aee7a2f8930976e4b125a2f614c4ad56d9875d38d153f6e8"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "key": "tomymall",
+    "url": "https://takaratomymall.jp/shop/goods/search.aspx?optionalcategory=Stuffed&search=true",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "kuromi",
+    "url": "https://www.taito.co.jp/prize/0480439610",
+    "snapshot": "evidence/kuromi.html",
+    "sha256": "9d4c203b534c23e330b1752dba5f87a6034ac87f1142fe2c3ed0aec549e55555"
+  },
+  {
+    "key": "melody",
+    "url": "https://www.taito.co.jp/prize/0480439710",
+    "snapshot": "evidence/melody.html",
+    "sha256": "3f86904132772d0f6fa8297107d20bee064b1c00d12237aa361c4dfd4ce1c7e5"
+  },
+  {
+    "key": "bandai",
+    "url": "https://toy.bandai.co.jp/ja/series/sanrio/item/01_21091/",
+    "snapshot": "evidence/bandai.html",
+    "sha256": "9a802cbc70a64234d25f639ed7cb91a9fb518c055806748ead728f41840a9ef8"
+  },
+  {
+    "key": "sanx",
+    "url": "https://www.san-x.co.jp/ja/blog/2026-07-post-0557040/",
+    "snapshot": "evidence/sanx.html",
+    "sha256": "ece223b9f1531d99b127f58d239a3e29de0ca259eb0e8e66a748b91f59e26204"
+  },
+  {
+    "key": "tomymall",
+    "url": "https://takaratomymall.jp/shop/c/cSanrioCh/",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "kitty",
+    "url": "https://takaratomymall.jp/shop/g/g4904790576324/",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "kitty",
+    "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y576324",
+    "snapshot": "evidence/kitty.html",
+    "sha256": "a7f9db3d5c70cb6906ad2714254c47a347a65751b5d069e7a4242f7fd73dd048"
+  },
+  {
+    "key": "cinnamoroll",
+    "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y576331",
+    "snapshot": "evidence/cinnamoroll.html",
+    "sha256": "7a16a8e3f4c3fa26fe406acb78653d38cfd5a2deb08eb2d43b4966085d355b70"
+  },
+  {
+    "key": "mymelody",
+    "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y576348",
+    "snapshot": "evidence/mymelody.html",
+    "sha256": "e628dba6f65fb9b6688eae6ea828aae5580e3cb5485e36225df980cc0d13b898"
+  },
+  {
+    "key": "kur",
+    "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y576355",
+    "snapshot": "evidence/kur.html",
+    "sha256": "0321934b7cda53d00883b88136e0c991961d02b029e9cfc6b34fa7df412390ef"
+  }
+]
